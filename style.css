@@ -82,6 +82,10 @@ nav ul li a:hover {
   text-align: center;
 }
 
+#tribute-info p {
+  text-align: center;
+}
+
 #tribute-info ul {
   list-style-type: none;
   padding: 0;
