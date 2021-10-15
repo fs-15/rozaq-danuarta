@@ -167,3 +167,13 @@ nav ul li a:hover {
 #follow li a {
   color: white;
 }
+
+/*footer*/
+#footer p{
+  list-style-type: none;
+  color: white;
+  background-color: black;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  }
